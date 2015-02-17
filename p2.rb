@@ -6,7 +6,6 @@
 # @sum = 0 
 
 def sum(a, b)
-	
 	b % 2 == 0 ? @sum += b : @sum
  	if b < 4000000
 	 	total = a + b
